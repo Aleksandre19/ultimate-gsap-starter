@@ -11,6 +11,6 @@ gsap.to(".box", {
     // repeat: -1,
     // yoyo: true,
     // repeatDelay: 2
-    pause: true,
+    // paused: true,
     stagger: 1
 })
